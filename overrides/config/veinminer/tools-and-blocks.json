@@ -166,6 +166,7 @@
         "tconstruct:pickaxe"
       ],
       "blocklist": [
+        "bigreactors:brore/0",
         "biomesoplenty:gem_ore/0",
         "biomesoplenty:gem_ore/1",
         "biomesoplenty:gem_ore/2",

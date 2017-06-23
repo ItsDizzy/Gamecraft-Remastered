@@ -4,6 +4,7 @@
   "costMultiplier": {
   },
 
+  // Adding a blackList section will completely replace the one in the core file.
   "blackList": [
     "VillagerGolem"
   ]
