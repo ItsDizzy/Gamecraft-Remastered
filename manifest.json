@@ -3,7 +3,7 @@
     "version": "1.10.2",
     "modLoaders": [
       {
-        "id": "forge-12.18.3.2185",
+        "id": "forge-12.18.3.2254",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Gamecraft Remastered",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "itsdizzy40",
   "files": [
     {
@@ -52,7 +52,7 @@
     {
       "projectID": 261793,
       "fileID": 2413528,
-      "required": true
+      "required": false
     },
     {
       "projectID": 221939,
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 231868,
-      "fileID": 2415996,
+      "fileID": 2370656,
       "required": true
     },
     {
@@ -137,11 +137,6 @@
     {
       "projectID": 225561,
       "fileID": 2432811,
-      "required": true
-    },
-    {
-      "projectID": 239431,
-      "fileID": 2381408,
       "required": true
     },
     {
@@ -196,7 +191,7 @@
     },
     {
       "projectID": 224641,
-      "fileID": 2420388,
+      "fileID": 2389455,
       "required": true
     },
     {
@@ -232,11 +227,6 @@
     {
       "projectID": 229060,
       "fileID": 2411088,
-      "required": true
-    },
-    {
-      "projectID": 69162,
-      "fileID": 2440018,
       "required": true
     },
     {
@@ -282,11 +272,6 @@
     {
       "projectID": 69118,
       "fileID": 2358274,
-      "required": false
-    },
-    {
-      "projectID": 227443,
-      "fileID": 2437140,
       "required": true
     },
     {
@@ -341,7 +326,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 2429916,
+      "fileID": 2392869,
       "required": true
     },
     {
@@ -455,11 +440,6 @@
       "required": true
     },
     {
-      "projectID": 222880,
-      "fileID": 2435872,
-      "required": true
-    },
-    {
       "projectID": 247408,
       "fileID": 2383045,
       "required": true
@@ -500,11 +480,6 @@
       "required": true
     },
     {
-      "projectID": 69163,
-      "fileID": 2437514,
-      "required": true
-    },
-    {
       "projectID": 245755,
       "fileID": 2382349,
       "required": true
@@ -521,7 +496,7 @@
     },
     {
       "projectID": 224791,
-      "fileID": 2402634,
+      "fileID": 2392863,
       "required": true
     },
     {
@@ -557,7 +532,7 @@
     {
       "projectID": 228823,
       "fileID": 2343394,
-      "required": true
+      "required": false
     },
     {
       "projectID": 225658,
@@ -625,21 +600,6 @@
       "required": false
     },
     {
-      "projectID": 66672,
-      "fileID": 2437141,
-      "required": true
-    },
-    {
-      "projectID": 268560,
-      "fileID": 2426263,
-      "required": true
-    },
-    {
-      "projectID": 268567,
-      "fileID": 2426265,
-      "required": true
-    },
-    {
       "projectID": 231951,
       "fileID": 2435559,
       "required": true
@@ -651,32 +611,17 @@
     },
     {
       "projectID": 235279,
-      "fileID": 2434940,
+      "fileID": 2384059,
       "required": true
     },
     {
       "projectID": 251792,
-      "fileID": 2437053,
-      "required": true
-    },
-    {
-      "projectID": 267602,
-      "fileID": 2437194,
+      "fileID": 2409338,
       "required": true
     },
     {
       "projectID": 238222,
       "fileID": 2412009,
-      "required": true
-    },
-    {
-      "projectID": 247694,
-      "fileID": 2413865,
-      "required": true
-    },
-    {
-      "projectID": 248747,
-      "fileID": 2430127,
       "required": true
     },
     {
@@ -691,7 +636,7 @@
     },
     {
       "projectID": 227543,
-      "fileID": 2381770,
+      "fileID": 2439707,
       "required": true
     },
     {

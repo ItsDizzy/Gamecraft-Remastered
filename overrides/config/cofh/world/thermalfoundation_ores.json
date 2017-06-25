@@ -1,13 +1,10 @@
 {
-	"dependencies": "thermalfoundation",
-
 	"populate": {
-
 		"copper": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 8,
@@ -23,7 +20,6 @@
 				]
 			}
 		},
-
 		"tin": {
 			"distribution": "uniform",
 			"generator": {
@@ -31,7 +27,7 @@
 					"name": "thermalfoundation:ore",
 					"metadata": 1
 				},
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 7,
@@ -47,7 +43,6 @@
 				]
 			}
 		},
-
 		"silver": {
 			"distribution": "uniform",
 			"generator": {
@@ -63,7 +58,7 @@
 						"weight": 20
 					}
 				],
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 4,
@@ -79,7 +74,6 @@
 				]
 			}
 		},
-
 		"lead": {
 			"distribution": "uniform",
 			"generator": {
@@ -95,13 +89,14 @@
 						"weight": 10
 					}
 				],
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 4,
 			"min-height": 10,
 			"max-height": 35,
 			"retrogen": "true",
+			"biomeRestriction": "none",
 			"biome": "all",
 			"dimension": {
 				"restriction": "blacklist",
@@ -111,7 +106,6 @@
 				]
 			}
 		},
-
 		"nickel": {
 			"distribution": "uniform",
 			"generator": {
@@ -119,7 +113,7 @@
 					"name": "thermalfoundation:ore",
 					"metadata": 5
 				},
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 4
 			},
 			"cluster-count": 2,
@@ -135,12 +129,11 @@
 				]
 			}
 		},
-
 		"copper_ocean": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 4,
@@ -164,12 +157,11 @@
 				]
 			}
 		},
-
 		"copper_high": {
 			"distribution": "uniform",
 			"generator": {
 				"block": "thermalfoundation:ore",
-				"material": "minecraft:stone",
+				"material": "stone",
 				"cluster-size": 8
 			},
 			"cluster-count": 8,
