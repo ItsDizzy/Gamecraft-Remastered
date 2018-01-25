@@ -10,9 +10,10 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "GameCraft Remastered",
-  "version": "2.0.1",
+  "name": "Gamecraft Remastered",
+  "version": "2.0.2",
   "author": "itsdizzy40",
+  "projectID": 269402,
   "files": [
     {
       "projectID": 70496,
@@ -472,6 +473,21 @@
     {
       "projectID": 69118,
       "fileID": 2358274,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 2457029,
+      "required": true
+    },
+    {
+      "projectID": 259724,
+      "fileID": 2497227,
+      "required": true
+    },
+    {
+      "projectID": 227543,
+      "fileID": 2439707,
       "required": true
     }
   ],
