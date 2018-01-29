@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Gamecraft Remastered",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "author": "itsdizzy40",
   "projectID": 269402,
   "files": [
@@ -62,7 +62,7 @@
     },
     {
       "projectID": 250277,
-      "fileID": 2516060,
+      "fileID": 2525276,
       "required": true
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "projectID": 225561,
-      "fileID": 2512408,
+      "fileID": 2524523,
       "required": true
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "projectID": 32274,
-      "fileID": 2498297,
+      "fileID": 2520364,
       "required": true
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 2425769,
+      "fileID": 2452877,
       "required": true
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 2408751,
+      "fileID": 2435810,
       "required": true
     },
     {
@@ -297,12 +297,12 @@
     },
     {
       "projectID": 228815,
-      "fileID": 2514372,
+      "fileID": 2525231,
       "required": true
     },
     {
       "projectID": 228816,
-      "fileID": 2514377,
+      "fileID": 2525233,
       "required": true
     },
     {
