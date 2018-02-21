@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Gamecraft Remastered",
-  "version": "2.0.7",
+  "version": "2.1.0",
   "author": "itsdizzy40",
   "projectID": 269402,
   "files": [
@@ -568,6 +568,11 @@
     {
       "projectID": 243883,
       "fileID": 2356885,
+      "required": true
+    },
+    {
+      "projectID": 247843,
+      "fileID": 2467134,
       "required": true
     }
   ],
