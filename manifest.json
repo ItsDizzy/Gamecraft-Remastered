@@ -3,16 +3,17 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.3.2701",
+        "id": "forge-14.23.4.2705",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "GameCraft Remastered v1.12.2",
-  "version": "3.0.0",
+  "name": "Gamecraft Remastered",
+  "version": "3.0.2",
   "author": "itsdizzy40",
+  "projectID": 269402,
   "files": [
     {
       "projectID": 267602,
@@ -51,7 +52,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2561079,
+      "fileID": 2566347,
       "required": true
     },
     {
@@ -61,7 +62,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 2541267,
+      "fileID": 2563888,
       "required": true
     },
     {
@@ -91,12 +92,12 @@
     },
     {
       "projectID": 231484,
-      "fileID": 2543356,
+      "fileID": 2565712,
       "required": true
     },
     {
       "projectID": 228027,
-      "fileID": 2456043,
+      "fileID": 2565070,
       "required": true
     },
     {
@@ -131,12 +132,12 @@
     },
     {
       "projectID": 245174,
-      "fileID": 2509842,
+      "fileID": 2566250,
       "required": true
     },
     {
       "projectID": 231868,
-      "fileID": 2555366,
+      "fileID": 2567175,
       "required": true
     },
     {
@@ -145,13 +146,8 @@
       "required": true
     },
     {
-      "projectID": 250832,
-      "fileID": 2540767,
-      "required": true
-    },
-    {
       "projectID": 64578,
-      "fileID": 2558622,
+      "fileID": 2567180,
       "required": true
     },
     {
@@ -166,7 +162,7 @@
     },
     {
       "projectID": 240630,
-      "fileID": 2497186,
+      "fileID": 2500678,
       "required": true
     },
     {
@@ -176,7 +172,7 @@
     },
     {
       "projectID": 220318,
-      "fileID": 2555531,
+      "fileID": 2566346,
       "required": true
     },
     {
@@ -230,18 +226,13 @@
       "required": true
     },
     {
-      "projectID": 61811,
-      "fileID": 2560476,
-      "required": true
-    },
-    {
       "projectID": 227083,
       "fileID": 2518667,
       "required": true
     },
     {
       "projectID": 223628,
-      "fileID": 2558648,
+      "fileID": 2565186,
       "required": true
     },
     {
@@ -256,7 +247,7 @@
     },
     {
       "projectID": 59751,
-      "fileID": 2562681,
+      "fileID": 2567022,
       "required": true
     },
     {
@@ -276,7 +267,7 @@
     },
     {
       "projectID": 253449,
-      "fileID": 2542548,
+      "fileID": 2545475,
       "required": true
     },
     {
@@ -337,6 +328,101 @@
     {
       "projectID": 282963,
       "fileID": 2532663,
+      "required": true
+    },
+    {
+      "projectID": 223735,
+      "fileID": 2554530,
+      "required": true
+    },
+    {
+      "projectID": 60092,
+      "fileID": 2440965,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2566050,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2566378,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 2559127,
+      "required": true
+    },
+    {
+      "projectID": 228756,
+      "fileID": 2550378,
+      "required": true
+    },
+    {
+      "projectID": 254879,
+      "fileID": 2443623,
+      "required": true
+    },
+    {
+      "projectID": 238403,
+      "fileID": 2443194,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2462627,
+      "required": true
+    },
+    {
+      "projectID": 233105,
+      "fileID": 2543038,
+      "required": true
+    },
+    {
+      "projectID": 224641,
+      "fileID": 2549092,
+      "required": true
+    },
+    {
+      "projectID": 228815,
+      "fileID": 2525230,
+      "required": true
+    },
+    {
+      "projectID": 228816,
+      "fileID": 2530225,
+      "required": true
+    },
+    {
+      "projectID": 230976,
+      "fileID": 2463272,
+      "required": true
+    },
+    {
+      "projectID": 70496,
+      "fileID": 2518031,
+      "required": true
+    },
+    {
+      "projectID": 225194,
+      "fileID": 2491032,
+      "required": true
+    },
+    {
+      "projectID": 261251,
+      "fileID": 2496777,
+      "required": true
+    },
+    {
+      "projectID": 267939,
+      "fileID": 2559930,
+      "required": true
+    },
+    {
+      "projectID": 292952,
+      "fileID": 2556992,
       "required": true
     }
   ],
